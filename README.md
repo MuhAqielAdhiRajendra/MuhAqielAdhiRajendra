@@ -12,7 +12,7 @@
 - Tinkering with local AI and automation
 
 ## Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,py,fastapi,java,lua,docker,vercel,git" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,java,docker,git" />
 
 ## Competitions
 
